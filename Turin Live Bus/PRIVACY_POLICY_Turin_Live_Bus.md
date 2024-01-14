@@ -1,4 +1,4 @@
-## Shake Alarm Clock: Privacy policy
+## Turin Live Bus: Privacy policy
 
 Welcome to the Turin Live Bus app for Android!
 
