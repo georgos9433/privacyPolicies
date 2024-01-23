@@ -20,7 +20,3 @@ If you have any question regarding how the app protectes your privacy, please se
 Yours sincerely,  
 Giorgio Benedetto
 giorgio94.benedetto@gmail.com
-
-
-
- 'https://www.gtt.to.it/cms/index.php?option=com_gtt&task=palina.getTransitiOld&palina=$nPalina&bacino=U&realtime=true&get_param=value'));
