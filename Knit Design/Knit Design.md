@@ -13,6 +13,8 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The app does note require any permission in the `AndroidManifest.xml` file.
 
+--------------------------------
+
 If you have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
 Yours sincerely,  
